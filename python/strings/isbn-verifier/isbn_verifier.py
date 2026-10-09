@@ -25,5 +25,4 @@ def is_valid(isbn):
     return prove % 11 == 0
 
 
-print(is_valid('3-598-21508-9'))
 
